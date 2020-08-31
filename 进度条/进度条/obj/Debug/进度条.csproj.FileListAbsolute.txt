@@ -1,0 +1,9 @@
+c:\users\mirror\source\repos\进度条\进度条\bin\Debug\进度条.exe
+c:\users\mirror\source\repos\进度条\进度条\bin\Debug\进度条.pdb
+c:\users\mirror\source\repos\进度条\进度条\obj\Debug\进度条.csprojAssemblyReference.cache
+c:\users\mirror\source\repos\进度条\进度条\obj\Debug\进度条.Form1.resources
+c:\users\mirror\source\repos\进度条\进度条\obj\Debug\进度条.Properties.Resources.resources
+c:\users\mirror\source\repos\进度条\进度条\obj\Debug\进度条.csproj.GenerateResource.cache
+c:\users\mirror\source\repos\进度条\进度条\obj\Debug\进度条.csproj.CoreCompileInputs.cache
+c:\users\mirror\source\repos\进度条\进度条\obj\Debug\进度条.exe
+c:\users\mirror\source\repos\进度条\进度条\obj\Debug\进度条.pdb

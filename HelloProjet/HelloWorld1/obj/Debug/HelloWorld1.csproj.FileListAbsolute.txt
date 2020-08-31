@@ -1,7 +1,0 @@
-C:\Users\mirror\source\repos\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe.config
-C:\Users\mirror\source\repos\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe
-C:\Users\mirror\source\repos\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.pdb
-C:\Users\mirror\source\repos\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csprojAssemblyReference.cache
-C:\Users\mirror\source\repos\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csproj.CoreCompileInputs.cache
-C:\Users\mirror\source\repos\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.exe
-C:\Users\mirror\source\repos\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.pdb
